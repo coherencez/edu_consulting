@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+.intro-message a {
+  background-color: #01CED8;
+}
+
 .primaryColor {
   background-color: #009299;
 }
