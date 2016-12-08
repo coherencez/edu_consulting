@@ -22,19 +22,19 @@ h6 {
 }
 
 .primaryColor {
-  color: #009299;
+  background-color: #009299;
 }
 
 .primaryColorDark {
-  color: #005A5E;
+  background-color: #005A5E;
 }
 
 .secondaryColor {
-  color: #FD7500;
+  background-color: #FD7500;
 }
 
 .secondaryColorDark {
-  color: #9B4800;
+  background-color: #9B4800;
 }
 
 .topnav {
