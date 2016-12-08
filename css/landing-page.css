@@ -21,8 +21,24 @@ h6 {
     font-weight: 700;
 }
 
+.primaryColor {
+  color: #009299;
+}
+
+.primaryColorDark {
+  color: #005A5E;
+}
+
+.secondaryColor {
+  color: #FD7500;
+}
+
+.secondaryColorDark {
+  color: #9B4800;
+}
+
 .topnav {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 .lead {
